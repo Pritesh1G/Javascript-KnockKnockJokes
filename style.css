@@ -1,10 +1,8 @@
-.joke
-{
-	text-align: center;
-	margin: auto;
+.joke {
+    text-align: center;
+    margin: auto;
 }
 
-#jokegen
-{
-margin-top: 5%;
+#jokegen {
+    margin-top: 5%;
 }
